@@ -1,0 +1,3 @@
+username = 'YOUR_USERNAME_HERE'
+password = 'YOUR_PASSWORD_HERE'
+appKey = 'YOUR_APPKEY_HERE'

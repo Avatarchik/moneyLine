@@ -1,0 +1,8 @@
+json
+requests
+BeautifulSoup
+Pandas
+unicodedata
+numpy
+pytz
+sqlite3
